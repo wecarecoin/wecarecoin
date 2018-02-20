@@ -1,0 +1,9 @@
+Building wecare
+
+See doc/readme-qt.rst for instructions on building wecare QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of wecare.
+
+See doc/build-*.txt for instructions on building wecared,
+the intended-for-services, no-graphical-interface, reference
+implementation of wecare.
